@@ -8,3 +8,10 @@ create TABLE `user`(
 PRIMARY KEY(`id`)
 )
 ```
+Repository
+
+CrudRepository 
+
+PagingAndSortingRepository
+
+JpaRepository
