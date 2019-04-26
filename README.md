@@ -15,3 +15,5 @@ CrudRepository
 PagingAndSortingRepository
 
 JpaRepository
+
+# JPA动态生成Entity
